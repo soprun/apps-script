@@ -5,5 +5,6 @@ Sandbox collection [Apps Script](https://developers.google.com/apps-script/) for
 ---
 
 - https://developers.google.com/apps-script/
+- https://github.com/gsuitedevs/apps-script-samples
 - ...
 
